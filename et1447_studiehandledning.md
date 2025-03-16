@@ -17,7 +17,7 @@
 14. [Traceroute, Ping och Nätverksverktyg](#traceroute-ping-och-nätverksverktyg)
 15. [Nätverkssäkerhetskoncept](#nätverkssäkerhetskoncept)
 
-** Kompletterande material ** 
+**Kompletterande material** 
 1. [HTTP och Webbteknologier](#http-och-webbteknologier)
 2. [Beräkningar av Nätverksprestanda](#beräkningar-av-nätverksprestanda)
 3. [DHCP i Praktiken](#dhcp-i-praktiken)
