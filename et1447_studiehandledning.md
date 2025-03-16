@@ -761,6 +761,7 @@ För att beräkna antalet datagram som behövs för att överföra en fil:
    - IPv6-header: 40 byte
    - Tillgänglig plats för data: 1500 - 40 = 1460 byte
    - Antal datagram: ⌈1456000 / 1460⌉ = ⌈997,26⌉ = 998 datagram
+   - **OBS** EXEMPLET ÄR FELAKTIGT. TCP HEADER behöver också inkluderas.
 
 ### Beräkning av Överföringstider
 
