@@ -377,9 +377,9 @@ Ett förbindelselöst protokoll som tillhandahåller minimal transportlagerfunkt
 ### Typer av Nätverksfördröjning
 1. **Bearbetningsfördröjning**: Tid för att undersöka paketheader och fatta vidarebefordringsbeslut
 2. **Köfördröjning**: Tid i routerbuffertar i väntan på att överföras
-3. **Överföringsfördröjning**: Tid för att skicka ut alla paketbitar på länken
+3. **Överföringsfördröjning** (tranismissions-losses): Tid för att skicka ut alla paketbitar på länken
    - Formel: Överföringsfördröjning = Paketstorlek (bitar) / Länkbandbredd (bps)
-4. **Utbredningsfördröjning**: Tid för signal att färdas genom mediet
+4. **Utbredningsfördröjning** (propagation-losses): Tid för signal att färdas genom mediet
    - Formel: Utbredningsfördröjning = Avstånd / Signalhastighet
 
 ### Faktorer som Påverkar Fördröjning
